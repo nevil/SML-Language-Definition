@@ -59,7 +59,7 @@
 			<key>comment</key>
 			<string>Character</string>
 			<key>match</key>
-			<string>(\(\)|=&gt;|::|\[\]|-&gt;|:&gt;)</string>
+			<string>(\(\)|=&gt;|::|\[\]|-&gt;|:&gt;|@|\*)</string>
 			<key>name</key>
 			<string>constant.character.sml</string>
 		</dict>
