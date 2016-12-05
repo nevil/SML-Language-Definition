@@ -25,7 +25,7 @@ patterns:
 
 - comment: Character
   name: constant.character.sml
-  match: (\(\)|=>|::|\[\]|->|:>|@|\*)
+  match: (\(\)|=>|::|\[\]|->|:>|@|\*|\^)
 
 repository:
   multilinecomment:
